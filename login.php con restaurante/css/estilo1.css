@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: blue;
+}
+
+.container {
+    text-align: center;
+    background-color: gray;
+    height: 100px;
+}
+
+.button {
+
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+
+.info {
+    
+    text-align: center;
+    background-color: gray;
+    height: 90px;
+}
+.menu li {
+    display: inline;
+    margin:  15px;
+    background-color: aqua ;
+    border: 2px solid red;
+    color: black;
+}
+
+.japanese-food {
+    background-color: grey;
+    text-align: center;
+    height: 300px;
+}
+
+.japanese-food img {
+    
+    height: auto;
+    border-radius: 10px;
+    height: auto;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+    background-color: gray;
+    color: white;
+}
+
